@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jakhadakash.github.io/readme-ffzyek/sitemap.xml
